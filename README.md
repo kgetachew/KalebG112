@@ -1,4 +1,4 @@
-### Hello, I'm [Kaleb](https://kgetachew.github.io/kaleb.github.io/)!
+### Hello, I'm [Kaleb](https://kgetachew-github-io.vercel.app/)!
 
 
 Hello, my name is Kaleb Getachew, I'm a [UVA Engineering](https://engineering.virginia.edu/) Alum in Computer Science and Statistics. I am a recent new grad software engineer/data scientist looking to gain meaningful learning experiences and opportunities. I plan on using this as a place to display my inspirations and fun projects. Enjoy!
